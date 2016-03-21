@@ -15,7 +15,7 @@
 
 ## Function makeCacheMatrix commits the inverse
 ## of the matrix to memory for use with the
-## cacheSolve function below.
+## cacheSolve function below. 
 
 makeCacheMatrix <- function(x = matrix()) {
    m <- NULL
